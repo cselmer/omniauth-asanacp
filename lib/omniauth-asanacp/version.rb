@@ -1,5 +1,5 @@
 module Omniauth
-  module Asana
+  module Asanacp
     VERSION = "0.0.2"
   end
 end
