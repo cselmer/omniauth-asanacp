@@ -2,7 +2,7 @@ require 'omniauth-oauth2'
 
 module OmniAuth
   module Strategies
-    class Asana < OmniAuth::Strategies::OAuth2
+    class Asanacp < OmniAuth::Strategies::OAuth2
       option :client_options, {
         :site => 'https://app.asana.com',
         :authorize_url => 'https://app.asana.com/-/oauth_authorize',

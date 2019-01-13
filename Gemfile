@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in omniauth-asana.gemspec
+# Specify your gem's dependencies in omniauth-asanacp.gemspec
 gemspec
 
 group :development, :test do

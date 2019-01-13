@@ -1,12 +1,12 @@
 require 'spec_helper'
 
-describe OmniAuth::Strategies::Asana do
+describe OmniAuth::Strategies::Asanacp do
   let(:access_token) { stub('AccessToken', :options => {}) }
   let(:parsed_response) { stub('ParsedResponse') }
   let(:response) { stub('Response', :parsed => parsed_response) }
 
   subject do
-    OmniAuth::Strategies::Asana.new({})
+    OmniAuth::Strategies::Asanacp.new({})
   end
 
   before(:each) do

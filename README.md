@@ -1,6 +1,6 @@
 # OmniAuth Asana
 
-This is the official OmniAuth strategy for authenticating against [Asana][]. To
+This is a copy of the official OmniAuth strategy for authenticating against [Asana][]. To
 use it, you'll need to create an Application and copy the Client ID and Client
 Secret. You can create and manage applications from the "Apps" tab of your user
 settings in Asana.
